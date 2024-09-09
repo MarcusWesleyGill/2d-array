@@ -10,11 +10,6 @@ Lab on 2D arrays
 #include <iomanip>
 using namespace std;
 
-
-#include <iostream>
-#include <iomanip>
-using namespace std;
-
 // Declare 2 constants for the sizes of the 2-dimensional array
 const int NUM_STU = 5;
 const int NUM_TEST = 3;
